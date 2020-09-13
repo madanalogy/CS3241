@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++14 -framework GLUT -framework OpenGL -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lab3.dir/image_io.cpp.o CMakeFiles/Lab3.dir/main.cpp.o  -o Lab3 /usr/local/lib/libGLEW.dylib 

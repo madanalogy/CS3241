@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/GL/freeglut_std.h
+windows.h
+-
+EGL/egl.h
+-
+GLES/gl.h
+-
+GLES2/gl2.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdlib.h
+-
+
+../include/GL/glut.h
+freeglut_std.h
+../include/GL/freeglut_std.h
+
+/Users/ahmed/Documents/CS3241/Lab2/main.cpp
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+

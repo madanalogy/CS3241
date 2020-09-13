@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab4">
+				<Option output="/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Lab4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ahmed/Documents/CS3241/Lab4/."/>
+					<Add directory="/Users/ahmed/Documents/CS3241/Lab4/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab4/fast">
+				<Option output="/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Lab4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/ahmed/Documents/CS3241/Lab4/."/>
+					<Add directory="/Users/ahmed/Documents/CS3241/Lab4/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ahmed/Documents/CS3241/Lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Camera.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Camera.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Color.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Image.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Image.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/ImageIO.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/ImageIO.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Light.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Main.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Material.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Plane.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Plane.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Ray.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Raytrace.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Raytrace.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Scene.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Sphere.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Sphere.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Surface.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Triangle.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Triangle.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Util.cpp">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Util.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/Vector3d.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/include/stb_image.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/include/stb_image_write.h">
+			<Option target="Lab4"/>
+		</Unit>
+		<Unit filename="/Users/ahmed/Documents/CS3241/Lab4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
